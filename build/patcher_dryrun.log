@@ -1,0 +1,4 @@
+[+] 已备份原始文件 -> C:\Users\PrefacedCorg\桌面\spzt\Patch\build\test_patch\EasiCamera.Api.dll.bak
+[*] 目标方法: System.Boolean EasiCamera.CameraExtension::IsSeewoCamera(DirectShowLib.DsDevice)
+[+] 已打补丁: IsSeewoCamera(DsDevice) -> 恒返回 true
+[+] 校验通过：程序集可正常重载。
